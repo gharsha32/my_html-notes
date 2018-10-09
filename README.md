@@ -34,3 +34,4 @@
 ### The ol tag
 ```html
 <ol></ol><!-- outcome: list with numbers. inside these tags, the li tags are also placed-->
+```
